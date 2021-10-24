@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/kate,linux,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=kate,linux,jupyternotebooks
 
+### LibreOffice ###
+# LibreOffice locks
+.~lock.*#
+
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
